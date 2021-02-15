@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-Jeux-Oxo/static/css/main.d8b81d22.chunk.css",
+    "main.js": "/react-Jeux-Oxo/static/js/main.af7b086f.chunk.js",
+    "main.js.map": "/react-Jeux-Oxo/static/js/main.af7b086f.chunk.js.map",
+    "runtime-main.js": "/react-Jeux-Oxo/static/js/runtime-main.212ba120.js",
+    "runtime-main.js.map": "/react-Jeux-Oxo/static/js/runtime-main.212ba120.js.map",
+    "static/js/2.2d9d0d98.chunk.js": "/react-Jeux-Oxo/static/js/2.2d9d0d98.chunk.js",
+    "static/js/2.2d9d0d98.chunk.js.map": "/react-Jeux-Oxo/static/js/2.2d9d0d98.chunk.js.map",
+    "index.html": "/react-Jeux-Oxo/index.html",
+    "precache-manifest.4c6ac52016e314191be89ee54093e132.js": "/react-Jeux-Oxo/precache-manifest.4c6ac52016e314191be89ee54093e132.js",
+    "service-worker.js": "/react-Jeux-Oxo/service-worker.js",
+    "static/css/main.d8b81d22.chunk.css.map": "/react-Jeux-Oxo/static/css/main.d8b81d22.chunk.css.map",
+    "static/js/2.2d9d0d98.chunk.js.LICENSE.txt": "/react-Jeux-Oxo/static/js/2.2d9d0d98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.212ba120.js",
+    "static/js/2.2d9d0d98.chunk.js",
+    "static/css/main.d8b81d22.chunk.css",
+    "static/js/main.af7b086f.chunk.js"
+  ]
+}
